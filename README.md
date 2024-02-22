@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Rent Simply is an upcoming, cutting-edge property management platform designed to revolutionize the way landlords and tenants interact. This public version of the repository showcases key aspects of the project's codebase, demonstrating capabilities in automating tenant invoicing, facilitating direct communication, and providing market analysis-driven rent increase suggestions. Built with React and Node.js, and utilizing Google Cloud's MySQL for a robust tenant/property database, Rent Simply integrates advanced features like a payment platform for tenants, an in-built messaging system, and machine learning algorithms for data-driven decision-making.
+Rent Simply is an upcoming, cutting-edge property management platform designed to revolutionize the way landlords and tenants interact. This public version of the repository showcases some of the development thus far. Built with React and Node.js, and utilizing Google Cloud's MySQL for a robust tenant/property database, Rent Simply integrates a payment platform for tenants, an in-built messaging system, and machine learning algorithms for data-driven decision-making, and more to come.
 
 ## Features
 
